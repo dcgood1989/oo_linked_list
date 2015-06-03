@@ -8,4 +8,4 @@
 
 ## Instructions
 
-In `lib/parts.rb` implement all necessary classes using inheritance to remove duplicated method definitions.
+In `lib/linked_list.rb` implement all necessary classes.
